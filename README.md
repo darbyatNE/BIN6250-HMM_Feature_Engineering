@@ -1,4 +1,4 @@
-A project to prepare data for use by a Hidden Markov Model.
+A project to demonstrate preparing data for use by a Hidden Markov Model.
 
 To get started download and review the Presentation PDF
 
