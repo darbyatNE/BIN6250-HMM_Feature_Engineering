@@ -8,6 +8,6 @@ Activate the environment with the required libraries installed then open and run
 
 Look through the output in the notebook and in the figs/ and model/ directories
 
-Any Feedback is welcome, Thanks!
+Any feedback is welcome, Thanks!
 
 -Beb
