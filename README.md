@@ -10,4 +10,4 @@ Look through the output in the notebook and in the figs/ and model/ directories
 
 Any feedback is welcome, Thanks!
 
--Beb
+-Ben
