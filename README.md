@@ -1,6 +1,6 @@
 A project to demonstrate preparing data for use by a Hidden Markov Model.
 
-To get started download and review the Presentation PDF
+To get started download and review the HMM_Feature_Engineering PDF
 
 Clone the repo to your local machine then ensure you have the required libraries installed or create a custom environment make for this project from the .yml file in the repo.
 
