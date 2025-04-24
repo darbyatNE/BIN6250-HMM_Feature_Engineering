@@ -11,3 +11,11 @@ Look through the output in the notebook and in the figs/ and model/ directories
 Any feedback is welcome, Thanks!
 
 -Ben
+
+Hey!
+Since you are working in a workbook I'm going to give my feedback here.
+Great comments, just one thing I tend to do is list the arguments and the returns in the function doc strings.
+I heard what Marcus was suggesting at the end of class and I think if you go down that route it will be a very high quality project.
+I like what you have done so far and wish you luck!
+
+-Dan
